@@ -1,0 +1,10 @@
+bin/
+obj/
+Properties/
+Debug/
+Release/
+*.sln
+*.user
+*.csproj
+.vs/
+
